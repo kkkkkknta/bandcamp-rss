@@ -21,6 +21,12 @@
 	  "includeUpcoming": true
 	},
 	{
+	  "name": "Brainfeeder",
+	  "url": "https://brainfeeder.bandcamp.com",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
 	  "name": "Strut",
 	  "url": "https://strut.bandcamp.com/music",
 	  "maxReleases": 3,
@@ -123,12 +129,6 @@
 	  "includeUpcoming": true
 	},
 	{
-	  "name": "Born Free",
-	  "url": "https://bornfree.bandcamp.com/music",
-	  "maxReleases": 3,
-	  "includeUpcoming": true
-	},
-	{
 	  "name": "ESP Institute",
 	  "url": "https://esp-institute.bandcamp.com/music",
 	  "maxReleases": 3,
@@ -149,6 +149,12 @@
 	{
 	  "name": "Animalia",
 	  "url": "https://animalialabel.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Far Out Recordings",
+	  "url": "https://faroutrecordings.bandcamp.com",
 	  "maxReleases": 3,
 	  "includeUpcoming": true
 	},
