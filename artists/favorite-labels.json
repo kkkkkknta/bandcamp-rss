@@ -69,6 +69,12 @@
 	  "includeUpcoming": true
 	},
 	{
+	  "name": "Mr Bongo",
+	  "url": "https://mrbongo.bandcamp.com",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
 	  "name": "Albarika Store",
 	  "url": "https://albarikastore.bandcamp.com/music",
 	  "maxReleases": 3,
