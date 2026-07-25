@@ -1,0 +1,71 @@
+{
+	"title": "好きなレーベル新譜フィード",
+	"description": "追いかけたいレーベルの新譜まとめ",
+	"artists": [
+	{
+	  "name": "Mississippi Records",
+	  "url": "https://mississippirecords.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Ulyssa",
+	  "url": "https://ulyssa.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Soundway Records",
+	  "url": "https://soundwayrecords.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Strut",
+	  "url": "https://strut.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Mushroom Hour",
+	  "url": "https://mushroomhour.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Akuphone",
+	  "url": "https://akuphone.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Hakuna Kulala",
+	  "url": "https://hakunakulala.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Altercat",
+	  "url": "https://altercat.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Hot Casa Records",
+	  "url": "https://hotcasarecords.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Short Span Records",
+	  "url": "https://shortspanrecords.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Vampisoul",
+	  "url": "https://vampisoul.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Albarika Store",
+	  "url": "https://albarikastore.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Holic Trax",
+	  "url": "https://holic-trax.bandcamp.com/music",
+	  "maxReleases": 3
+	}
+	]
+}
