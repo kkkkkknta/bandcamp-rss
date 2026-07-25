@@ -64,8 +64,16 @@ async function scrapeBandcamp(url, maxReleases = 2, includeUpcoming = false) {
     const $ = cheerio.load(data);
     const releases = [];
 
-    // Get album/track items from the page
-    const albumItems = $('.music-grid-item');
+    // Get album/track items from the page (regular grid + featured/pinned items)
+    const seenUrls = new Set();
+    const albumItems = $('.featured-item, .music-grid-item').filter((_, el) => {
+      const href = $(el).find('a').attr('href');
+      if (!href || seenUrls.has(href)) {
+        return false; // skip items with no link, or duplicates already seen
+      }
+      seenUrls.add(href);
+      return true;
+    });
     
     console.log(`Found ${albumItems.length} potential releases, targeting ${maxReleases} valid releases`);
     
