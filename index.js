@@ -34,7 +34,7 @@ async function scrapeArtistReleases(artist) {
   
   // Determine which scraper to use based on the URL
   if (url.includes('bandcamp.com')) {
-    return scrapeBandcamp(url, maxReleases);
+    return scrapeBandcamp(url, maxReleases, artist.includeUpcoming || false);
   } else if (url.includes('soundcloud.com')) {
     return scrapeSoundcloud(url, maxReleases);
   } else if (url.includes('spotify.com')) {
@@ -57,7 +57,7 @@ async function scrapeArtistReleases(artist) {
  * @param {number} maxReleases - Maximum number of releases to scrape (from artist config)
  * @returns {Promise<Array>} - Array of release objects
  */
-async function scrapeBandcamp(url, maxReleases = 2) {
+async function scrapeBandcamp(url, maxReleases = 2, includeUpcoming = false) {
   try {
     // First fetch the artist page to get all album links
     const { data } = await axios.get(url);
@@ -202,9 +202,13 @@ async function scrapeBandcamp(url, maxReleases = 2) {
         const now = new Date();
         const isFutureRelease = releaseDate > now;
         
-        if (isFutureRelease) {
+        if (isFutureRelease && !includeUpcoming) {
           console.log(`Skipping future release: ${title} (Release date: ${releaseDate.toISOString()})`);
           continue; // Skip this release and move to the next one without incrementing validReleasesCount
+        }
+
+        if (isFutureRelease && includeUpcoming) {
+          description = `[Upcoming / Pre-order] ${description}`;
         }
         
         // If we got here, it's not a future release, so add it
