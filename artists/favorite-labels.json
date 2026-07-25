@@ -5,167 +5,200 @@
 	{
 	  "name": "Mississippi Records",
 	  "url": "https://mississippirecords.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Ulyssa",
 	  "url": "https://ulyssa.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Soundway Records",
 	  "url": "https://soundwayrecords.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Strut",
 	  "url": "https://strut.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Mushroom Hour",
 	  "url": "https://mushroomhour.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Akuphone",
 	  "url": "https://akuphone.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+  	  "includeUpcoming": true
 	},
 	{
 	  "name": "Hakuna Kulala",
 	  "url": "https://hakunakulala.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Altercat",
 	  "url": "https://altercat.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Hot Casa Records",
 	  "url": "https://hotcasarecords.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Short Span Records",
 	  "url": "https://shortspanrecords.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Vampisoul",
 	  "url": "https://vampisoul.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Albarika Store",
 	  "url": "https://albarikastore.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Holic Trax",
 	  "url": "https://holic-trax.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "House of Underground",
 	  "url": "https://houseofunderground.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+ 	  "includeUpcoming": true
 	},
 	{
 	  "name": "Smithsonian Folkways",
 	  "url": "https://smithsonianfolkways.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Common Ground International",
 	  "url": "https://commongroundinternational.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Still Music",
 	  "url": "https://still-music.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+  	  "includeUpcoming": true
 	},
 	{
 	  "name": "AOTNS",
 	  "url": "https://aotns.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+ 	  "includeUpcoming": true
 	},
 	{
 	  "name": "Houndstooth",
 	  "url": "https://houndstoothlabel.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Born Free",
 	  "url": "https://bornfree.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "ESP Institute",
 	  "url": "https://esp-institute.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+ 	  "includeUpcoming": true
 	},
 	{
 	  "name": "Klasse Wrecks",
 	  "url": "https://klassewrecks.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+ 	  "includeUpcoming": true
 	},
 	{
 	  "name": "Offen Music",
 	  "url": "https://offen.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Animalia",
 	  "url": "https://animalialabel.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Nyege Nyege Tapes",
 	  "url": "https://nyegenyegetapes.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+ 	  "includeUpcoming": true
 	},
 	{
 	  "name": "International Anthem",
 	  "url": "https://intlanthem.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+  	  "includeUpcoming": true
 	},
 	{
 	  "name": "AD 93",
 	  "url": "https://ad93.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Habibi Funk",
 	  "url": "https://habibifunkrecords.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Stroom.tv",
 	  "url": "https://stroomtv.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+  	  "includeUpcoming": true
 	},
 	{
 	  "name": "The Trilogy Tapes",
 	  "url": "https://thetrilogytapes.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+ 	  "includeUpcoming": true
 	},
 	{
 	  "name": "Future Classic",
 	  "url": "https://futureclassic.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Sound Signature",
 	  "url": "https://soundsignature.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Numero Group",
 	  "url": "https://numerogroup.bandcamp.com/music",
-	  "maxReleases": 3
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	}
 	]
 }
