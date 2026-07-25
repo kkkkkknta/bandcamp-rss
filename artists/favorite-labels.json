@@ -66,6 +66,106 @@
 	  "name": "Holic Trax",
 	  "url": "https://holic-trax.bandcamp.com/music",
 	  "maxReleases": 3
+	},
+	{
+	  "name": "House of Underground",
+	  "url": "https://houseofunderground.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Smithsonian Folkways",
+	  "url": "https://smithsonianfolkways.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Common Ground International",
+	  "url": "https://commongroundinternational.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Still Music",
+	  "url": "https://still-music.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "AOTNS",
+	  "url": "https://aotns.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Houndstooth",
+	  "url": "https://houndstoothlabel.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Born Free",
+	  "url": "https://bornfree.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "ESP Institute",
+	  "url": "https://esp-institute.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Klasse Wrecks",
+	  "url": "https://klassewrecks.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Offen Music",
+	  "url": "https://offen.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Animalia",
+	  "url": "https://animalialabel.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Nyege Nyege Tapes",
+	  "url": "https://nyegenyegetapes.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "International Anthem",
+	  "url": "https://intlanthem.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "AD 93",
+	  "url": "https://ad93.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Habibi Funk",
+	  "url": "https://habibifunkrecords.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Stroom.tv",
+	  "url": "https://stroomtv.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "The Trilogy Tapes",
+	  "url": "https://thetrilogytapes.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Future Classic",
+	  "url": "https://futureclassic.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Sound Signature",
+	  "url": "https://soundsignature.bandcamp.com/music",
+	  "maxReleases": 3
+	},
+	{
+	  "name": "Numero Group",
+	  "url": "https://numerogroup.bandcamp.com/music",
+	  "maxReleases": 3
 	}
 	]
 }
