@@ -211,6 +211,12 @@
 	  "url": "https://numerogroup.bandcamp.com/music",
 	  "maxReleases": 3,
 	  "includeUpcoming": true
+	},
+	{
+	  "name": "Acid Jazz",
+	  "url": "https://acidjazz.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
 	}
 	]
 }
