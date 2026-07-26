@@ -42,7 +42,7 @@
 	  "name": "Akuphone",
 	  "url": "https://akuphone.bandcamp.com/music",
 	  "maxReleases": 3,
-  	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Hakuna Kulala",
@@ -96,7 +96,7 @@
 	  "name": "House of Underground",
 	  "url": "https://houseofunderground.bandcamp.com/music",
 	  "maxReleases": 3,
- 	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Smithsonian Folkways",
@@ -114,13 +114,13 @@
 	  "name": "Still Music",
 	  "url": "https://still-music.bandcamp.com/music",
 	  "maxReleases": 3,
-  	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "AOTNS",
 	  "url": "https://aotns.bandcamp.com/music",
 	  "maxReleases": 3,
- 	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Houndstooth",
@@ -132,13 +132,13 @@
 	  "name": "ESP Institute",
 	  "url": "https://esp-institute.bandcamp.com/music",
 	  "maxReleases": 3,
- 	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Klasse Wrecks",
 	  "url": "https://klassewrecks.bandcamp.com/music",
 	  "maxReleases": 3,
- 	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Offen Music",
@@ -162,13 +162,13 @@
 	  "name": "Nyege Nyege Tapes",
 	  "url": "https://nyegenyegetapes.bandcamp.com/music",
 	  "maxReleases": 3,
- 	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "International Anthem",
 	  "url": "https://intlanthem.bandcamp.com/music",
 	  "maxReleases": 3,
-  	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "AD 93",
@@ -186,13 +186,13 @@
 	  "name": "Stroom.tv",
 	  "url": "https://stroomtv.bandcamp.com/music",
 	  "maxReleases": 3,
-  	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "The Trilogy Tapes",
 	  "url": "https://thetrilogytapes.bandcamp.com/music",
 	  "maxReleases": 3,
- 	  "includeUpcoming": true
+	  "includeUpcoming": true
 	},
 	{
 	  "name": "Future Classic",
@@ -215,6 +215,60 @@
 	{
 	  "name": "Acid Jazz",
 	  "url": "https://acidjazz.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Browns Wood Recordings",
+	  "url": "https://brownswoodrecordings.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Research Records",
+	  "url": "https://researchrecords.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Sama Sama Records",
+	  "url": "https://samasamarecords.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "New Amsterdam Records",
+	  "url": "https://newamsterdamrecords.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Ngozi Family",
+	  "url": "https://ngozifamily.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Future Rootz",
+	  "url": "https://futurerootz.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Heavenly Sweetness",
+	  "url": "https://heavenlysweetness.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Analog Africa",
+	  "url": "https://analogafrica.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	},
+	{
+	  "name": "Caju Collective",
+	  "url": "https://cajucollective.bandcamp.com/music",
 	  "maxReleases": 3,
 	  "includeUpcoming": true
 	}
