@@ -272,5 +272,11 @@
 	  "maxReleases": 3,
 	  "includeUpcoming": true
 	}
+	{
+	  "name": "Efficient Space",
+	  "url": "https://efficientspace.bandcamp.com/music",
+	  "maxReleases": 3,
+	  "includeUpcoming": true
+	}	
 	]
 }
